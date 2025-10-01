@@ -1,0 +1,13 @@
+*.out
+*.o
+*.obj
+submit.cpp
+.solution.tmp
+.includes.tmp
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
